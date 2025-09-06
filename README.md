@@ -1,33 +1,19 @@
-# SkillDossier.io (React.js)
+# @babel/types
 
-A mentorship and career growth platform built with React.js, Vite, TailwindCSS, and Framer Motion.
+> Babel Types is a Lodash-esque utility library for AST nodes
 
-## 🚀 Features
-- Responsive design with TailwindCSS
-- Smooth animations (Framer Motion)
-- Mentor listing page with mock data
-- Dashboard placeholder
-- Contact form with basic validation
-- React Router navigation
-- Dark/Light theme ready
+See our website [@babel/types](https://babeljs.io/docs/babel-types) for more information or the [issues](https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20types%22+is%3Aopen) associated with this package.
 
-## 🛠 Tech Stack
-- React 18 + Vite
-- TailwindCSS
-- React Router DOM
-- Framer Motion
+## Install
 
-## 📦 Setup
-```bash
-npm install
-npm run dev
+Using npm:
+
+```sh
+npm install --save-dev @babel/types
 ```
 
-## 🌍 Deployment
-- Deploy easily on [Vercel](https://vercel.com) or [Netlify](https://www.netlify.com/).
+or using yarn:
 
-## 📸 Screenshots
-(Add screenshots after running locally)
-
----
-Made with ❤️ for internship assignment.
+```sh
+yarn add @babel/types --dev
+```
